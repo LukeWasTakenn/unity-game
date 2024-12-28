@@ -2,11 +2,11 @@ using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.Rendering;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
     private Animator animator;
-    private SpriteRenderer spriteRenderer;
     
     [Header("Movement")]
     public float moveSpeed = 5f;
@@ -37,12 +37,17 @@ public class Player : MonoBehaviour
     private bool canAttack = true;
     private bool facingRight = true;
     
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    [Header("Health")]
+    public int maxHealth = 100;
+    public int currentHealth;
+    public bool isDead = false;
+
+    void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-        spriteRenderer = GetComponent<SpriteRenderer>();
+        
+        currentHealth = maxHealth;
     }
 
     // Update is called once per frame
@@ -149,5 +154,24 @@ public class Player : MonoBehaviour
     private void Flip()
     {
         transform.localScale = new Vector3(facingRight ? 1 : -1, 1, 1);
+    }
+
+    public void TakeDamage(int damage)
+    {
+        currentHealth -= damage;
+        animator.SetTrigger("hurt");
+
+        if (currentHealth > 0) return;
+        
+        isDead = true;
+        animator.SetTrigger("die");
+        
+        GetComponent<PlayerInput>().enabled = false;
+        Invoke("RestartScene", 3f);
+    }
+
+    private void RestartScene()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }

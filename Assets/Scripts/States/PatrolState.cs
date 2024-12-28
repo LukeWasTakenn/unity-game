@@ -12,8 +12,8 @@ public class PatrolState : EnemyBaseState
     public override void LogicUpdate()
     {
         base.LogicUpdate();
-
-        if (enemy.CheckForPlayer())
+        
+        if (enemy.CheckForPlayer() && enemy.maxHealth >= 0)
             enemy.SwitchState(enemy.playerDetectedState);
         
         if (enemy.CheckForObstacles())

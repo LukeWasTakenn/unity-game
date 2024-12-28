@@ -14,22 +14,22 @@ public class PlayerDetectedState : EnemyBaseState
         base.Enter();
     }
 
+    // ReSharper disable Unity.PerformanceAnalysis
     public override void LogicUpdate()
     {
         base.LogicUpdate();
-
-        if (!enemy.CheckForPlayer())
+        
+        var playerHit = enemy.CheckForPlayer();
+        
+        if (!playerHit)
         {
             enemy.SwitchState(enemy.patrolState);
             return;
         }
-
         
         if (Time.time >= nextAttackTime)
         {
-            enemy.animator.SetTrigger("attack");
-            nextAttackTime = Time.time + 1 / attackRate;
-            Debug.Log("Attack!");
+            Attack(playerHit);
         }
     }
 
@@ -38,5 +38,17 @@ public class PlayerDetectedState : EnemyBaseState
         base.PhysicsUpdate();
 
         enemy.rb.linearVelocity = Vector2.zero;
+    }
+
+    private void Attack(Collider2D playerHit)
+    {
+        var player = playerHit.gameObject.GetComponent<Player>();
+
+        if (player.isDead) return;
+        
+        enemy.animator.SetTrigger("attack");
+        nextAttackTime = Time.time + 1 / attackRate;
+        
+        player.TakeDamage(34);
     }
 }

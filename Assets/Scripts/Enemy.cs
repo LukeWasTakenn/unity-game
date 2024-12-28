@@ -1,4 +1,3 @@
-using Unity.XR.OpenVR;
 using UnityEngine;
 
 public class Enemy : MonoBehaviour
@@ -26,8 +25,6 @@ public class Enemy : MonoBehaviour
     public int currentHealth;
     
     public Animator animator;
-    private bool playerFound = false;
-    private Vector2 moveDirection;
     
     [Header("Player detection")]
     public float playerDetectionRange = 1.3f;
@@ -70,7 +67,7 @@ public class Enemy : MonoBehaviour
         currentState.Enter();
     }
 
-    public bool CheckForPlayer()
+    public Collider2D CheckForPlayer()
     {
         var hit = Physics2D.OverlapCircle(playerDetector.position, playerDetectionRange, playerLayer);
         return hit;
