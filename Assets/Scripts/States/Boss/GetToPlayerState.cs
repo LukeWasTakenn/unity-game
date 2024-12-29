@@ -27,11 +27,12 @@ public class GetToPlayerState : BossBaseState
     public override void PhysicsUpdate()
     {
         base.PhysicsUpdate();
-
-
+        
         if (distance > boss.startAttackDistance)
         {
-            boss.rb.linearVelocity = new Vector2(Mathf.Sign((boss.playerTransform.position.x - boss.transform.position.x)) * boss.moveSpeed, boss.rb.linearVelocity.y);
+            var direction = Mathf.Sign(Mathf.Sign((boss.playerTransform.position.x - boss.transform.position.x)));
+            boss.rb.linearVelocity = new Vector2(direction * boss.moveSpeed, boss.rb.linearVelocity.y);
+            boss.transform.localScale = new Vector3(-direction, 1, 1);
         }
     }
     
