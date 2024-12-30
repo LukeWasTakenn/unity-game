@@ -946,6 +946,7 @@ MonoBehaviour:
   rb: {fileID: 0}
   animator: {fileID: 0}
   player: {fileID: 0}
+  spell: {fileID: 2900966391232518944, guid: da315e153d158c249be516473dcce83f, type: 3}
   attackCollider: {fileID: 395601327}
   attackRange: 2.7
   playerLayer:
@@ -953,6 +954,9 @@ MonoBehaviour:
     m_Bits: 64
   startAttackDistance: 4
   isAttacking: 0
+  startCastDistance: 10
+  castCooldown: 3
+  castTimer: 0
 --- !u!1 &291492787
 GameObject:
   m_ObjectHideFlags: 0

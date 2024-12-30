@@ -12,6 +12,7 @@ public class Boss : MonoBehaviour
     public Rigidbody2D rb;
     public Animator animator;
     public Player player;
+    public GameObject spell;
     
     public Transform attackCollider;
     public float attackRange = 1.5f;
@@ -22,8 +23,15 @@ public class Boss : MonoBehaviour
     public GetToPlayerState getToPlayerState;
     public StartAttackState startAttackState;
     public DoAttackState doAttackState;
+    public StartCastState startCastState;
+    public DoCastState doCastState;
     
     public bool isAttacking = false;
+
+    public float startCastDistance = 10f;
+    public float castCooldown = 3f;
+
+    public float castTimer = 0f;
         
     void Awake()
     {
@@ -34,6 +42,8 @@ public class Boss : MonoBehaviour
         getToPlayerState = new GetToPlayerState(this, "walk");
         startAttackState = new StartAttackState(this, "start_attack");
         doAttackState = new DoAttackState(this, "attack_finish");
+        startCastState = new StartCastState(this, "start_cast");
+        doCastState = new DoCastState(this, "cast_finish");
         
         currentState = getToPlayerState;
         currentState.Enter();
@@ -49,6 +59,8 @@ public class Boss : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        castTimer -= Time.deltaTime;
+        
         currentState.LogicUpdate();
         
         animator.SetFloat("magnitude", rb.linearVelocity.magnitude);
@@ -71,6 +83,15 @@ public class Boss : MonoBehaviour
     public void FinishAttack()
     {
         isAttacking = false;
+    }
+
+    public void OnFinishCastAnimationEnd()
+    {
+        SwitchState(getToPlayerState);
+        
+        var pos = new Vector2(player.transform.position.x, player.transform.position.y + 1);
+        
+        Instantiate(spell, pos, Quaternion.identity);
     }
     
     private void OnDrawGizmos()

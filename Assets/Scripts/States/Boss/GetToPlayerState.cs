@@ -22,6 +22,11 @@ public class GetToPlayerState : BossBaseState
         {
             boss.SwitchState(boss.startAttackState);
         }
+
+        if (distance >= boss.startCastDistance && boss.castTimer <= 0)
+        {
+            boss.SwitchState(boss.startCastState);
+        }
     }
 
     public override void PhysicsUpdate()
