@@ -772,7 +772,7 @@ Transform:
   m_GameObject: {fileID: 239373504}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.75, y: -0.55, z: 0}
+  m_LocalPosition: {x: 4.54, y: -0.66, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -835,17 +835,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 2.2536824, y: -1.1489359}
+  m_Offset: {x: -0.08645344, y: -0.12947083}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 1, y: 0}
+    pivot: {x: 0.7637078, y: 0.3274001}
     oldSize: {x: 8.75, y: 5.8125}
     newSize: {x: 1.4, y: 0.93}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2.710721, y: 3.5146282}
+  m_Size: {x: 2.618042, y: 3.4682884}
   m_EdgeRadius: 0
 --- !u!50 &239373508
 Rigidbody2D:
@@ -951,7 +951,7 @@ MonoBehaviour:
   playerLayer:
     serializedVersion: 2
     m_Bits: 64
-  startAttackDistance: 2
+  startAttackDistance: 4
   isAttacking: 0
 --- !u!1 &291492787
 GameObject:
@@ -3323,7 +3323,7 @@ Transform:
   m_GameObject: {fileID: 395601326}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.82, y: -1.61, z: 0}
+  m_LocalPosition: {x: -3.73, y: -0.29, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

@@ -100,4 +100,17 @@ public class Enemy : MonoBehaviour
     {
         Gizmos.DrawWireSphere(ledgeDetector.position, playerDetectionRange);
     }
+
+    public void OnAttackAnimationFinish()
+    {
+        var playerCollider = CheckForPlayer();
+
+        if (!playerCollider) return;
+        
+        var player = playerCollider.transform.GetComponent<Player>();
+
+        if (player.isDead) return;
+        
+        player.TakeDamage(34);
+    }
 }

@@ -48,7 +48,5 @@ public class PlayerDetectedState : EnemyBaseState
         
         enemy.animator.SetTrigger("attack");
         nextAttackTime = Time.time + 1 / attackRate;
-        
-        player.TakeDamage(34);
     }
 }

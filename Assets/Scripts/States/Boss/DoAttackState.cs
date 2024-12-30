@@ -10,7 +10,6 @@ public class DoAttackState : BossBaseState
 
     public override void Enter()
     {
-        Debug.Log("attack");
         boss.animator.SetTrigger("attack_finish");
         boss.isAttacking = true;
     }
