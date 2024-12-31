@@ -1,16 +1,13 @@
-using System;
-using NUnit.Framework.Constraints;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.Serialization;
 
-public class Boss : MonoBehaviour
+public class Boss : MonoBehaviour, IDamageable
 {
     public float moveSpeed = 4f;
     
     public Transform playerTransform;
     public Rigidbody2D rb;
     public Animator animator;
+    public BoxCollider2D collision;
     public Player player;
     public GameObject spell;
     
@@ -25,12 +22,12 @@ public class Boss : MonoBehaviour
     public DoAttackState doAttackState;
     public StartCastState startCastState;
     public DoCastState doCastState;
+    public BossDeathState deathState;
     
     public bool isAttacking = false;
 
     public float startCastDistance = 10f;
     public float castCooldown = 3f;
-
     public float castTimer = 0f;
         
     void Awake()
@@ -38,12 +35,14 @@ public class Boss : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         player = playerTransform.GetComponent<Player>();
+        collision = GetComponent<BoxCollider2D>();
         
         getToPlayerState = new GetToPlayerState(this, "walk");
         startAttackState = new StartAttackState(this, "start_attack");
         doAttackState = new DoAttackState(this, "attack_finish");
         startCastState = new StartCastState(this, "start_cast");
         doCastState = new DoCastState(this, "cast_finish");
+        deathState = new BossDeathState(this, "die");
         
         currentState = getToPlayerState;
         currentState.Enter();
@@ -98,5 +97,21 @@ public class Boss : MonoBehaviour
     {
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(attackCollider.position, attackRange);
+    }
+
+    public void OnDeathAnimationEnd()
+    {
+        Destroy(gameObject);
+    }
+
+    public void OnDeath()
+    {
+        animator.SetTrigger("die");
+        SwitchState(deathState);
+    }
+
+    public void OnTakeDamage()
+    {
+        return;
     }
 }

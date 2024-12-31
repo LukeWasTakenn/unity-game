@@ -13,7 +13,7 @@ public class PatrolState : EnemyBaseState
     {
         base.LogicUpdate();
         
-        if (enemy.CheckForPlayer() && enemy.maxHealth >= 0)
+        if (enemy.CheckForPlayer() && enemy.health.maxHealth >= 0)
             enemy.SwitchState(enemy.playerDetectedState);
         
         if (enemy.CheckForObstacles())

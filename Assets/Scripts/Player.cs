@@ -1,7 +1,5 @@
-using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using UnityEngine.Rendering;
 using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
@@ -111,8 +109,8 @@ public class Player : MonoBehaviour
             
             foreach (var target in hit)
             {
-                var enemy = target.gameObject.GetComponent<Enemy>();
-                enemy.TakeDamage();
+                var health = target.gameObject.GetComponent<EnemyHealth>();
+                health.TakeDamage(35);
             }
         }
     }

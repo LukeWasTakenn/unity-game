@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Enemy : MonoBehaviour
+public class Enemy : MonoBehaviour, IDamageable
 {
     [Header("States")]
     public EnemyBaseState currentState;
@@ -19,11 +19,6 @@ public class Enemy : MonoBehaviour
     public Rigidbody2D rb;
     public BoxCollider2D collision;
     public float moveSpeed = 5f;
-    
-    [Header("Stats")]
-    public int maxHealth = 100;
-    public int currentHealth;
-    
     public Animator animator;
     
     [Header("Player detection")]
@@ -31,11 +26,14 @@ public class Enemy : MonoBehaviour
     public Transform playerDetector;
     public LayerMask playerLayer;
     
+    public EnemyHealth health;
+    
     public void Awake()
     {
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         collision = GetComponent<BoxCollider2D>();
+        health = GetComponent<EnemyHealth>();
         
         patrolState = new PatrolState(this, "patrol");
         playerDetectedState = new PlayerDetectedState(this, "playerDetected");
@@ -43,8 +41,6 @@ public class Enemy : MonoBehaviour
         
         currentState = patrolState;
         currentState.Enter();
-
-        currentHealth = maxHealth;
     }
 
     // Update is called once per frame
@@ -79,18 +75,6 @@ public class Enemy : MonoBehaviour
         return hit.collider is null;
     }
 
-    public void TakeDamage()
-    {
-        animator.SetTrigger("hurt");
-        currentHealth -= 35;
-
-        if (currentHealth <= 0)
-        {
-            animator.SetBool("isDead", true);
-            SwitchState(deathState);
-        }
-    }
-
     public void RemoveSelf()
     {
         Destroy(gameObject);
@@ -112,5 +96,18 @@ public class Enemy : MonoBehaviour
         if (player.isDead) return;
         
         player.TakeDamage(34);
+    }
+
+    public void OnTakeDamage()
+    {
+        Debug.Log("Take damage");
+        animator.SetTrigger("hurt");
+    }
+
+    public void OnDeath()
+    {
+        Debug.Log("Death");
+        animator.SetBool("isDead", true);
+        SwitchState(deathState);
     }
 }
