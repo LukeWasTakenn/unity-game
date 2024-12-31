@@ -17,6 +17,9 @@ public class StartAttackState : BossBaseState
             return;
         }
         
+        var direction = Mathf.Sign(Mathf.Sign((boss.playerTransform.position.x - boss.transform.position.x)));
+        boss.transform.localScale = new Vector3(-direction, 1, 1);
+        
         boss.animator.SetTrigger("attack_start");
         timer = windUpTime;
     }

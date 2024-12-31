@@ -6,7 +6,6 @@ public class BossDeathState : BossBaseState
     {
     }
     
-    
     public override void Enter()
     {
         boss.collision.enabled = false;
