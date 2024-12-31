@@ -36,6 +36,7 @@ public class Player : MonoBehaviour
     private bool facingRight = true;
     
     [Header("Health")]
+    public HealthBar healthBar;
     public int maxHealth = 100;
     public int currentHealth;
     public bool isDead = false;
@@ -46,6 +47,7 @@ public class Player : MonoBehaviour
         animator = GetComponent<Animator>();
         
         currentHealth = maxHealth;
+        healthBar.SetMaxHealth(maxHealth);
     }
 
     // Update is called once per frame
@@ -158,8 +160,14 @@ public class Player : MonoBehaviour
     {
         currentHealth -= damage;
         animator.SetTrigger("hurt");
+        
+        if (currentHealth <= 0)
+            currentHealth = 0;
 
+        healthBar.SetHealth(currentHealth);
+        
         if (currentHealth > 0) return;
+        
         
         isDead = true;
         animator.SetTrigger("die");
