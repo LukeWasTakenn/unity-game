@@ -36,7 +36,6 @@ public class Boss : MonoBehaviour, IDamageable
         animator = GetComponent<Animator>();
         player = playerTransform.GetComponent<Player>();
         collision = GetComponent<BoxCollider2D>();
-        
         getToPlayerState = new GetToPlayerState(this, "walk");
         startAttackState = new StartAttackState(this, "start_attack");
         doAttackState = new DoAttackState(this, "attack_finish");
