@@ -11,6 +11,6 @@ public class Wine : MonoBehaviour, ICollectible
     public void Collect()
     {
         Destroy(gameObject);
-        GameController.Instance.CollectWine();
+        ScoreManager.Instance.CollectWine();
     }
 }

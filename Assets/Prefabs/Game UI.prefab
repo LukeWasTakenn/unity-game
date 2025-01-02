@@ -321,6 +321,7 @@ GameObject:
   - component: {fileID: 124965920877939066}
   - component: {fileID: 2974397412204144860}
   - component: {fileID: 2999323325102513852}
+  - component: {fileID: 95437794779825087}
   m_Layer: 5
   m_Name: Game UI
   m_TagString: Untagged
@@ -413,6 +414,19 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!114 &95437794779825087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5542039879222752097}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b6a41487acfbd04884b8b568130cd4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  wineCountText: {fileID: 6906143031449918534}
 --- !u!1 &8770878095570179978
 GameObject:
   m_ObjectHideFlags: 0
