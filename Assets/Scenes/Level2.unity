@@ -192,6 +192,8 @@ GameObject:
   - component: {fileID: 28683947}
   - component: {fileID: 28683946}
   - component: {fileID: 28683945}
+  - component: {fileID: 28683949}
+  - component: {fileID: 28683948}
   m_Layer: 0
   m_Name: Obelisk (1)
   m_TagString: Untagged
@@ -291,6 +293,65 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &28683948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 28683944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d02ad71db28cd4a49a035c0a31102784, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 0}
+--- !u!61 &28683949
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 28683944}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 2.5029502}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0}
+    oldSize: {x: 3.9583335, y: 5.0059004}
+    newSize: {x: 4.263158, y: 10.854898}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 3.9583335, y: 5.0059004}
+  m_EdgeRadius: 0
 --- !u!1001 &43485613
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1081,6 +1142,7 @@ GameObject:
   - component: {fileID: 340491563}
   - component: {fileID: 340491562}
   - component: {fileID: 340491561}
+  - component: {fileID: 340491565}
   m_Layer: 0
   m_Name: Obelisk
   m_TagString: Untagged
@@ -1180,6 +1242,52 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &340491565
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 340491560}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 2.5029502}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0}
+    oldSize: {x: 3.9583335, y: 5.0059004}
+    newSize: {x: 4.263158, y: 10.854898}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 3.9583335, y: 5.0059004}
+  m_EdgeRadius: 0
 --- !u!1001 &361586002
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1404,7 +1512,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5802777662396701006, guid: b8782717b7845d045b3dfb613f4d961c, type: 3}
       propertyPath: m_Mass
-      value: 2.2327278
+      value: 2.3683884
       objectReference: {fileID: 0}
     - target: {fileID: 7043759183261698236, guid: b8782717b7845d045b3dfb613f4d961c, type: 3}
       propertyPath: m_LocalScale.x
@@ -1473,6 +1581,26 @@ PrefabInstance:
     - target: {fileID: 7683627312206107974, guid: b8782717b7845d045b3dfb613f4d961c, type: 3}
       propertyPath: m_SortingLayerID
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8840130350781348673, guid: b8782717b7845d045b3dfb613f4d961c, type: 3}
+      propertyPath: m_ActionEvents.Array.data[2].m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8840130350781348673, guid: b8782717b7845d045b3dfb613f4d961c, type: 3}
+      propertyPath: m_ActionEvents.Array.data[2].m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1592786824}
+    - target: {fileID: 8840130350781348673, guid: b8782717b7845d045b3dfb613f4d961c, type: 3}
+      propertyPath: m_ActionEvents.Array.data[2].m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Interact
+      objectReference: {fileID: 0}
+    - target: {fileID: 8840130350781348673, guid: b8782717b7845d045b3dfb613f4d961c, type: 3}
+      propertyPath: m_ActionEvents.Array.data[2].m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Player, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 8840130350781348673, guid: b8782717b7845d045b3dfb613f4d961c, type: 3}
+      propertyPath: m_ActionEvents.Array.data[2].m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3246,6 +3374,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7043759183261698236, guid: b8782717b7845d045b3dfb613f4d961c, type: 3}
   m_PrefabInstance: {fileID: 521127106}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1592786824 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7119974199572180913, guid: b8782717b7845d045b3dfb613f4d961c, type: 3}
+  m_PrefabInstance: {fileID: 521127106}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 124fd15e4d0c3514884d2472aa6044f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1629648257
 PrefabInstance:
   m_ObjectHideFlags: 0

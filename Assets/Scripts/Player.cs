@@ -117,6 +117,24 @@ public class Player : MonoBehaviour
         }
     }
 
+    public void Interact(InputAction.CallbackContext context)
+    {
+        var hits = Physics2D.BoxCastAll(transform.position, new Vector2(0.1f, 1f), 0, Vector2.zero);
+
+        if (hits.Length <= 0) return;
+
+        foreach (var hit in hits)
+        {
+            var interactable = hit.collider.gameObject.GetComponent<Interactable>();
+
+            if (interactable)
+            {
+                interactable.Interact();
+                return;
+            }
+        }
+    }
+
     private void SetCanAttack()
     {
         canAttack = true;
