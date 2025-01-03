@@ -50,11 +50,29 @@ TagManager:
   - name: 4CloseTrees
     uniqueID: 4260250033
     locked: 0
-  - name: Level
-    uniqueID: 3341195057
+  - name: 5
+    uniqueID: 440029235
+    locked: 0
+  - name: 6
+    uniqueID: 2290069873
+    locked: 0
+  - name: 7
+    uniqueID: 2739064829
+    locked: 0
+  - name: 8
+    uniqueID: 252858121
+    locked: 0
+  - name: 9
+    uniqueID: 2737991907
+    locked: 0
+  - name: 10
+    uniqueID: 3500680069
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3341195057
     locked: 0
   m_RenderingLayers:
   - Default

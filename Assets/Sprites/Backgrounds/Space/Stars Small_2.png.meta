@@ -1,0 +1,4810 @@
+fileFormatVersion: 2
+guid: 2ae2c5a3c41214b41865b2d5f54ad481
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1523507617705049256
+    second: Stars Small_2_0
+  - first:
+      213: 5018106774579534956
+    second: Stars Small_2_1
+  - first:
+      213: 516877064058191897
+    second: Stars Small_2_2
+  - first:
+      213: -8926606411426188904
+    second: Stars Small_2_3
+  - first:
+      213: -5982809141842115798
+    second: Stars Small_2_4
+  - first:
+      213: -2239220016581444279
+    second: Stars Small_2_5
+  - first:
+      213: 2635490220122325326
+    second: Stars Small_2_6
+  - first:
+      213: -7648778031338662837
+    second: Stars Small_2_7
+  - first:
+      213: 8642217479685280280
+    second: Stars Small_2_8
+  - first:
+      213: -3443513724779174684
+    second: Stars Small_2_9
+  - first:
+      213: -2259999535203102733
+    second: Stars Small_2_10
+  - first:
+      213: -7652577015441465060
+    second: Stars Small_2_11
+  - first:
+      213: -7505574089890650473
+    second: Stars Small_2_12
+  - first:
+      213: 3217990905746869009
+    second: Stars Small_2_13
+  - first:
+      213: 6366593853108007834
+    second: Stars Small_2_14
+  - first:
+      213: 6296995649231551992
+    second: Stars Small_2_15
+  - first:
+      213: 6461079619387458845
+    second: Stars Small_2_16
+  - first:
+      213: -768012398414648753
+    second: Stars Small_2_17
+  - first:
+      213: 3242065913084147487
+    second: Stars Small_2_18
+  - first:
+      213: -1795922244145215930
+    second: Stars Small_2_19
+  - first:
+      213: 3320812896249004870
+    second: Stars Small_2_20
+  - first:
+      213: 7688301968376871300
+    second: Stars Small_2_21
+  - first:
+      213: -902736972085568231
+    second: Stars Small_2_22
+  - first:
+      213: 6909004978273474156
+    second: Stars Small_2_23
+  - first:
+      213: 1181209804845133222
+    second: Stars Small_2_24
+  - first:
+      213: -1696766466251866817
+    second: Stars Small_2_25
+  - first:
+      213: 210367405690114969
+    second: Stars Small_2_26
+  - first:
+      213: -213332700919725258
+    second: Stars Small_2_27
+  - first:
+      213: -950963804736625038
+    second: Stars Small_2_28
+  - first:
+      213: 3399855088228410746
+    second: Stars Small_2_29
+  - first:
+      213: 8630298209014282651
+    second: Stars Small_2_30
+  - first:
+      213: 702605371261834106
+    second: Stars Small_2_31
+  - first:
+      213: 5169592260845566753
+    second: Stars Small_2_32
+  - first:
+      213: 7834925395337482145
+    second: Stars Small_2_33
+  - first:
+      213: 4992180870248756560
+    second: Stars Small_2_34
+  - first:
+      213: -5492382087156552262
+    second: Stars Small_2_35
+  - first:
+      213: -4814949410433210689
+    second: Stars Small_2_36
+  - first:
+      213: -7410234859438539813
+    second: Stars Small_2_37
+  - first:
+      213: 2443022632669579330
+    second: Stars Small_2_38
+  - first:
+      213: -3019555466460558523
+    second: Stars Small_2_39
+  - first:
+      213: 1636018143447995195
+    second: Stars Small_2_40
+  - first:
+      213: -6095027204177035496
+    second: Stars Small_2_41
+  - first:
+      213: -5353578791106156520
+    second: Stars Small_2_42
+  - first:
+      213: -730806562745989785
+    second: Stars Small_2_43
+  - first:
+      213: -4145552692745690470
+    second: Stars Small_2_44
+  - first:
+      213: -1314119445506334828
+    second: Stars Small_2_45
+  - first:
+      213: 4799690651192827394
+    second: Stars Small_2_46
+  - first:
+      213: -5921051317412491355
+    second: Stars Small_2_47
+  - first:
+      213: -347050073430658846
+    second: Stars Small_2_48
+  - first:
+      213: -574363964483710341
+    second: Stars Small_2_49
+  - first:
+      213: 6245374452222845801
+    second: Stars Small_2_50
+  - first:
+      213: -4778473120120422566
+    second: Stars Small_2_51
+  - first:
+      213: 9158427734516138842
+    second: Stars Small_2_52
+  - first:
+      213: 9209940532215251364
+    second: Stars Small_2_53
+  - first:
+      213: 5681243067521248099
+    second: Stars Small_2_54
+  - first:
+      213: 6202290717775649145
+    second: Stars Small_2_55
+  - first:
+      213: -2167345177945710480
+    second: Stars Small_2_56
+  - first:
+      213: -3990428830512705318
+    second: Stars Small_2_57
+  - first:
+      213: 8787791792276682949
+    second: Stars Small_2_58
+  - first:
+      213: -266834249594747236
+    second: Stars Small_2_59
+  - first:
+      213: -1893311400062312039
+    second: Stars Small_2_60
+  - first:
+      213: -2611484698260855244
+    second: Stars Small_2_61
+  - first:
+      213: -3418221051273492064
+    second: Stars Small_2_62
+  - first:
+      213: -2290439145647406118
+    second: Stars Small_2_63
+  - first:
+      213: -333723149288542838
+    second: Stars Small_2_64
+  - first:
+      213: 9163579830394915347
+    second: Stars Small_2_65
+  - first:
+      213: 878917493899476321
+    second: Stars Small_2_66
+  - first:
+      213: -3427371372216581262
+    second: Stars Small_2_67
+  - first:
+      213: 6125618695622281692
+    second: Stars Small_2_68
+  - first:
+      213: 702963893505724722
+    second: Stars Small_2_69
+  - first:
+      213: 98145596657779979
+    second: Stars Small_2_70
+  - first:
+      213: 251283800461953363
+    second: Stars Small_2_71
+  - first:
+      213: 2815903282597272859
+    second: Stars Small_2_72
+  - first:
+      213: -8808706258407592738
+    second: Stars Small_2_73
+  - first:
+      213: 7473220034782621245
+    second: Stars Small_2_74
+  - first:
+      213: 5272654966357398145
+    second: Stars Small_2_75
+  - first:
+      213: -2968739422296628893
+    second: Stars Small_2_76
+  - first:
+      213: -4637545857407018301
+    second: Stars Small_2_77
+  - first:
+      213: 5314495144112794160
+    second: Stars Small_2_78
+  - first:
+      213: -3919397436054926983
+    second: Stars Small_2_79
+  - first:
+      213: -4585733253522284514
+    second: Stars Small_2_80
+  - first:
+      213: -327651154849209304
+    second: Stars Small_2_81
+  - first:
+      213: 5509662394718226561
+    second: Stars Small_2_82
+  - first:
+      213: -8508876777808802358
+    second: Stars Small_2_83
+  - first:
+      213: 8736197129060513943
+    second: Stars Small_2_84
+  - first:
+      213: 7074119340559925772
+    second: Stars Small_2_85
+  - first:
+      213: 6503035111855159987
+    second: Stars Small_2_86
+  - first:
+      213: -3338791777217856651
+    second: Stars Small_2_87
+  - first:
+      213: -2318265915621180883
+    second: Stars Small_2_88
+  - first:
+      213: 3147810623374240502
+    second: Stars Small_2_89
+  - first:
+      213: -8981919364555960923
+    second: Stars Small_2_90
+  - first:
+      213: 8244144918631398929
+    second: Stars Small_2_91
+  - first:
+      213: 4957366366438663223
+    second: Stars Small_2_92
+  - first:
+      213: 5409927129329080405
+    second: Stars Small_2_93
+  - first:
+      213: 4710875588217826202
+    second: Stars Small_2_94
+  - first:
+      213: 1232618410891357649
+    second: Stars Small_2_95
+  - first:
+      213: 2117237126240608648
+    second: Stars Small_2_96
+  - first:
+      213: 129932659679588405
+    second: Stars Small_2_97
+  - first:
+      213: 5566865256048968422
+    second: Stars Small_2_98
+  - first:
+      213: -361515244697424586
+    second: Stars Small_2_99
+  - first:
+      213: 4910826218823930499
+    second: Stars Small_2_100
+  - first:
+      213: -6802760675291864103
+    second: Stars Small_2_101
+  - first:
+      213: -7523339290865844633
+    second: Stars Small_2_102
+  - first:
+      213: 6465843151051192537
+    second: Stars Small_2_103
+  - first:
+      213: -3950505649067778096
+    second: Stars Small_2_104
+  - first:
+      213: 7970890155823254813
+    second: Stars Small_2_105
+  - first:
+      213: 7055675991708734124
+    second: Stars Small_2_106
+  - first:
+      213: -5063344511507854238
+    second: Stars Small_2_107
+  - first:
+      213: 2442467544512052224
+    second: Stars Small_2_108
+  - first:
+      213: 7344036816001250930
+    second: Stars Small_2_109
+  - first:
+      213: 6575559603220541329
+    second: Stars Small_2_110
+  - first:
+      213: -1280923105804227571
+    second: Stars Small_2_111
+  - first:
+      213: -5230670739408165488
+    second: Stars Small_2_112
+  - first:
+      213: 8927594655749635292
+    second: Stars Small_2_113
+  - first:
+      213: 3204505223646505492
+    second: Stars Small_2_114
+  - first:
+      213: -376102177814482144
+    second: Stars Small_2_115
+  - first:
+      213: -1772663040336210819
+    second: Stars Small_2_116
+  - first:
+      213: 623078188536532708
+    second: Stars Small_2_117
+  - first:
+      213: 8688268475841201013
+    second: Stars Small_2_118
+  - first:
+      213: 7678295898454573881
+    second: Stars Small_2_119
+  - first:
+      213: -5650293544972437981
+    second: Stars Small_2_120
+  - first:
+      213: 7599377178724420586
+    second: Stars Small_2_121
+  - first:
+      213: -917001363658886642
+    second: Stars Small_2_122
+  - first:
+      213: 3982715217568824586
+    second: Stars Small_2_123
+  - first:
+      213: -2979039200688792797
+    second: Stars Small_2_124
+  - first:
+      213: -6282168041965115783
+    second: Stars Small_2_125
+  - first:
+      213: -8783055935168409405
+    second: Stars Small_2_126
+  - first:
+      213: -6797909979459849874
+    second: Stars Small_2_127
+  - first:
+      213: 4833788086330022726
+    second: Stars Small_2_128
+  - first:
+      213: -1657787581318540905
+    second: Stars Small_2_129
+  - first:
+      213: -8642318469664151517
+    second: Stars Small_2_130
+  - first:
+      213: 1877993926998338133
+    second: Stars Small_2_131
+  - first:
+      213: -7573055773268831647
+    second: Stars Small_2_132
+  - first:
+      213: 5822940076842651874
+    second: Stars Small_2_133
+  - first:
+      213: 3355279164404169879
+    second: Stars Small_2_134
+  - first:
+      213: -2746293735089178840
+    second: Stars Small_2_135
+  - first:
+      213: -2550844681958621680
+    second: Stars Small_2_136
+  - first:
+      213: -5649802740828105000
+    second: Stars Small_2_137
+  - first:
+      213: 7927652482700926812
+    second: Stars Small_2_138
+  - first:
+      213: 512371042736290638
+    second: Stars Small_2_139
+  - first:
+      213: -7249478570838079651
+    second: Stars Small_2_140
+  - first:
+      213: -4257109102367958194
+    second: Stars Small_2_141
+  - first:
+      213: 1934448765625206939
+    second: Stars Small_2_142
+  - first:
+      213: -2817346102711949556
+    second: Stars Small_2_143
+  - first:
+      213: -9188101276381492993
+    second: Stars Small_2_144
+  - first:
+      213: 2505573328596600957
+    second: Stars Small_2_145
+  - first:
+      213: 3322532391819028584
+    second: Stars Small_2_146
+  - first:
+      213: -2779027734272756635
+    second: Stars Small_2_147
+  - first:
+      213: 5330634354874242028
+    second: Stars Small_2_148
+  - first:
+      213: 5328723271712859620
+    second: Stars Small_2_149
+  - first:
+      213: -3639839517038847563
+    second: Stars Small_2_150
+  - first:
+      213: -4707159952321719763
+    second: Stars Small_2_151
+  - first:
+      213: -6299552385707890376
+    second: Stars Small_2_152
+  - first:
+      213: 7017613217504642810
+    second: Stars Small_2_153
+  - first:
+      213: -2954288351485659001
+    second: Stars Small_2_154
+  - first:
+      213: -4067361553336189685
+    second: Stars Small_2_155
+  - first:
+      213: -6235828109497285475
+    second: Stars Small_2_156
+  - first:
+      213: 1037483465560824030
+    second: Stars Small_2_157
+  - first:
+      213: 2192430293891638604
+    second: Stars Small_2_158
+  - first:
+      213: -7000024405977246997
+    second: Stars Small_2_159
+  - first:
+      213: 1346825679773215419
+    second: Stars Small_2_160
+  - first:
+      213: 3155995621706836722
+    second: Stars Small_2_161
+  - first:
+      213: 1190965699033741826
+    second: Stars Small_2_162
+  - first:
+      213: 6206003154568784451
+    second: Stars Small_2_163
+  - first:
+      213: -8580302357063184162
+    second: Stars Small_2_164
+  - first:
+      213: 1365197547379625305
+    second: Stars Small_2_165
+  - first:
+      213: -3590169759022236675
+    second: Stars Small_2_166
+  - first:
+      213: -6456065395374257872
+    second: Stars Small_2_167
+  - first:
+      213: 9185464405760322549
+    second: Stars Small_2_168
+  - first:
+      213: 2475420521074977233
+    second: Stars Small_2_169
+  - first:
+      213: 2011613520694469778
+    second: Stars Small_2_170
+  - first:
+      213: 4665270109556761349
+    second: Stars Small_2_171
+  - first:
+      213: 973750140967609436
+    second: Stars Small_2_172
+  - first:
+      213: 1880001789665801174
+    second: Stars Small_2_173
+  - first:
+      213: 2792281303222446475
+    second: Stars Small_2_174
+  - first:
+      213: 8972064494150345734
+    second: Stars Small_2_175
+  - first:
+      213: 5676660041869396702
+    second: Stars Small_2_176
+  - first:
+      213: -7131272145286361687
+    second: Stars Small_2_177
+  - first:
+      213: 5382761407951319768
+    second: Stars Small_2_178
+  - first:
+      213: 5118710106762805929
+    second: Stars Small_2_179
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stars Small_2_0
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 3944
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac39ed3b16942510800000000000000
+      internalID: 1523507617705049256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_1
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 3945
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c5bcf3685e3a540800000000000000
+      internalID: 5018106774579534956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_2
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3856
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9104cb383f05c2700800000000000000
+      internalID: 516877064058191897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_3
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 3754
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891b73593c25e1480800000000000000
+      internalID: -8926606411426188904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_4
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 3755
+        width: 51
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a238a85a8cac8fca0800000000000000
+      internalID: -5982809141842115798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_5
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 3791
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94df7b14241bce0e0800000000000000
+      internalID: -2239220016581444279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_6
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3733
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41486b4464239420800000000000000
+      internalID: 2635490220122325326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_7
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3721
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b445f3cc7e41ad590800000000000000
+      internalID: -7648778031338662837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_8
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 3713
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812105462035fe770800000000000000
+      internalID: 8642217479685280280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_9
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 3654
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4ea57038e2630d0800000000000000
+      internalID: -3443513724779174684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_10
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 3645
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffcbaf856ed2a0e0800000000000000
+      internalID: -2259999535203102733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_11
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3658
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11ea42efb59cc590800000000000000
+      internalID: -7652577015441465060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_12
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 3638
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79621b8a128d6d790800000000000000
+      internalID: -7505574089890650473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_13
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 3600
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bca7bdda998ac20800000000000000
+      internalID: 3217990905746869009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_14
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 3593
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9330b3b06faa5850800000000000000
+      internalID: 6366593853108007834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_15
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 3570
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd70a81e2c636750800000000000000
+      internalID: 6296995649231551992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3514
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d150b1b7ead5aa950800000000000000
+      internalID: 6461079619387458845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_17
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 3513
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a2661fac87755f0800000000000000
+      internalID: -768012398414648753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_18
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 3512
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1778cf45c12efc20800000000000000
+      internalID: 3242065913084147487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_19
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 3535
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6468081fb3a9317e0800000000000000
+      internalID: -1795922244145215930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_20
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 3533
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64345761cb5e51e20800000000000000
+      internalID: 3320812896249004870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_21
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 3470
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4893a07e7e552ba60800000000000000
+      internalID: 7688301968376871300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_22
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 3496
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d5a3db185d873f0800000000000000
+      internalID: -902736972085568231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_23
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 3471
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6655691c67b1ef50800000000000000
+      internalID: 6909004978273474156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_24
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 3481
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ada0072f00846010800000000000000
+      internalID: 1181209804845133222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_25
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 3474
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d334883efd378e0800000000000000
+      internalID: -1696766466251866817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_26
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 3446
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993da787a006be200800000000000000
+      internalID: 210367405690114969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_27
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 3470
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63384bee9071a0df0800000000000000
+      internalID: -213332700919725258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_28
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 3418
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2766b60457f7dc2f0800000000000000
+      internalID: -950963804736625038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_29
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 3441
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75a8a58036be2f20800000000000000
+      internalID: 3399855088228410746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_30
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 3423
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b997cfdee7af4c770800000000000000
+      internalID: 8630298209014282651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_31
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 3395
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73d753dcd720c900800000000000000
+      internalID: 702605371261834106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_32
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 3410
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bfe4585c41eb740800000000000000
+      internalID: 5169592260845566753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_33
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3297
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af07c6c22f3bbc60800000000000000
+      internalID: 7834925395337482145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_34
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 3308
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0557da14d0ac74540800000000000000
+      internalID: 4992180870248756560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_35
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 3330
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abda054779327c3b0800000000000000
+      internalID: -5492382087156552262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_36
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 3335
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6e6ab950ddd2db0800000000000000
+      internalID: -4814949410433210689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_37
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 3305
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbf2fc08ae892990800000000000000
+      internalID: -7410234859438539813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_38
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3236
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2488286042c57e120800000000000000
+      internalID: 2443022632669579330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_39
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3239
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b87023d426816d0800000000000000
+      internalID: -3019555466460558523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_40
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 3241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33df4e55dd44b610800000000000000
+      internalID: 1636018143447995195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_41
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 3255
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f7fa6fc0d1a6ba0800000000000000
+      internalID: -6095027204177035496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_42
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 3212
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8186d07347444b5b0800000000000000
+      internalID: -5353578791106156520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_43
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 3219
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765400c9d47abd5f0800000000000000
+      internalID: -730806562745989785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3188
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92aa3f3ac90876c0800000000000000
+      internalID: -4145552692745690470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_45
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 3172
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f592aa35f43cde0800000000000000
+      internalID: -1314119445506334828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_46
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 3148
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e9c18a73deb9240800000000000000
+      internalID: 4799690651192827394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_47
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 3099
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af05c8a23334dda0800000000000000
+      internalID: -5921051317412491355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_48
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 3122
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e074e50cc70f2bf0800000000000000
+      internalID: -347050073430658846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_49
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3104
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72d92574037708f0800000000000000
+      internalID: -574363964483710341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_50
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 3125
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963ea0299f60ca650800000000000000
+      internalID: 6245374452222845801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_51
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 3104
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f3872c3047fadb0800000000000000
+      internalID: -4778473120120422566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_52
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 3097
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a538be84085491f70800000000000000
+      internalID: 9158427734516138842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_53
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3038
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a189212e1840df70800000000000000
+      internalID: 9209940532215251364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_54
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 3063
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b214a2874d7de40800000000000000
+      internalID: 5681243067521248099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_55
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 3056
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97958b2fb86f21650800000000000000
+      internalID: 6202290717775649145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_56
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 3014
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070e3e23b0b0ce1e0800000000000000
+      internalID: -2167345177945710480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_57
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2975
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad010dfee162f98c0800000000000000
+      internalID: -3990428830512705318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_58
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2978
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8beba431284f970800000000000000
+      internalID: 8787791792276682949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_59
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2980
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c964ffae9a30c4cf0800000000000000
+      internalID: -266834249594747236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_60
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2883
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991a616105b99b5e0800000000000000
+      internalID: -1893311400062312039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_61
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 2862
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4362bcfc08422cbd0800000000000000
+      internalID: -2611484698260855244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_62
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 2864
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9c41b701a0090d0800000000000000
+      internalID: -3418221051273492064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_63
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2803
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad389087bb9b630e0800000000000000
+      internalID: -2290439145647406118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_64
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 2787
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8de45950906e5bf0800000000000000
+      internalID: -333723149288542838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_65
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2748
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a8f951e439b2f70800000000000000
+      internalID: 9163579830394915347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_66
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2724
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d31c2ddca823c00800000000000000
+      internalID: 878917493899476321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_67
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2733
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27300bd55e78f60d0800000000000000
+      internalID: -3427371372216581262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_68
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2664
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9ce0eafb1920550800000000000000
+      internalID: 6125618695622281692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_69
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2632
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231955acfed61c900800000000000000
+      internalID: 702963893505724722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_70
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2609
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b054e0176eeac5100800000000000000
+      internalID: 98145596657779979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_71
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2509
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3594850094dbc7300800000000000000
+      internalID: 251283800461953363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_72
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2518
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d1111cd19141720800000000000000
+      internalID: 2815903282597272859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_73
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2508
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcead8145031c580800000000000000
+      internalID: -8808706258407592738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_74
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 2439
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eec8dd60636b760800000000000000
+      internalID: 7473220034782621245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_75
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 2376
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1829ee491cb3c2940800000000000000
+      internalID: 5272654966357398145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_76
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 2279
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361af47793becc6d0800000000000000
+      internalID: -2968739422296628893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_77
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 2181
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca9bab0d9024afb0800000000000000
+      internalID: -4637545857407018301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_78
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2118
+        width: 52
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03aa1691d21e0c940800000000000000
+      internalID: 5314495144112794160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_79
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 2173
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9798e5a3cc08b99c0800000000000000
+      internalID: -3919397436054926983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_80
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 2130
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10ab15f6e33c50c0800000000000000
+      internalID: -4585733253522284514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_81
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 2113
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82467f8b203f37bf0800000000000000
+      internalID: -327651154849209304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_82
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 2091
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188028da1c0467c40800000000000000
+      internalID: 5509662394718226561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_83
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 2075
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdc22d07a56ae980800000000000000
+      internalID: -8508876777808802358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_84
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1967
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7987075a0053d3970800000000000000
+      internalID: 8736197129060513943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_85
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 2013
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c028bc85f025c2260800000000000000
+      internalID: 7074119340559925772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_86
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1980
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baf40ccafb6f3a50800000000000000
+      internalID: 6503035111855159987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_87
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 2018
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b3feb719a3aa1d0800000000000000
+      internalID: -3338791777217856651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_88
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1979
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2af084be6dd3dfd0800000000000000
+      internalID: -2318265915621180883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_89
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1954
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa2c6a85154fab20800000000000000
+      internalID: 3147810623374240502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_90
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1963
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad807a1defc95380800000000000000
+      internalID: -8981919364555960923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_91
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1911
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ebdd7cf16196270800000000000000
+      internalID: 8244144918631398929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_92
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1928
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734ab0de17a1cc440800000000000000
+      internalID: 4957366366438663223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_93
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1915
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5589864af0ce31b40800000000000000
+      internalID: 5409927129329080405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_94
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1909
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b68c06364606140800000000000000
+      internalID: 4710875588217826202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_95
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1860
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd29ccf9e32b1110800000000000000
+      internalID: 1232618410891357649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_96
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1867
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88127ded2ffe16d10800000000000000
+      internalID: 2117237126240608648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_97
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1821
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5307ce8c01d9dc100800000000000000
+      internalID: 129932659679588405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_98
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1776
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e24343b47a714d40800000000000000
+      internalID: 5566865256048968422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_99
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1763
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63debe2ecc3abfaf0800000000000000
+      internalID: -361515244697424586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_100
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1802
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382dca66d62c62440800000000000000
+      internalID: 4910826218823930499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_101
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1798
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d36b39553db791a0800000000000000
+      internalID: -6802760675291864103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_102
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1778
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76eb33b76cab79790800000000000000
+      internalID: -7523339290865844633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_103
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1709
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d87ccf961a4bb950800000000000000
+      internalID: 6465843151051192537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_104
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1736
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df1428fa0cfc29c0800000000000000
+      internalID: -3950505649067778096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_105
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1667
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dc0897d5a4e9e60800000000000000
+      internalID: 7970890155823254813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_106
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1678
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca21d009eebcae160800000000000000
+      internalID: 7055675991708734124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_107
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1680
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c86285ef26bb9b0800000000000000
+      internalID: -5063344511507854238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_108
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 1663
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cbf0e7a4365e120800000000000000
+      internalID: 2442467544512052224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_109
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1599
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2763523e2924be560800000000000000
+      internalID: 7344036816001250930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_110
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1576
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f6e5dce94114b50800000000000000
+      internalID: 6575559603220541329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_111
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1580
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ce2fdc83f393ee0800000000000000
+      internalID: -1280923105804227571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_112
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1573
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095eb800dace867b0800000000000000
+      internalID: -5230670739408165488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_113
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1471
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcf1aaf90035eb70800000000000000
+      internalID: 8927594655749635292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_114
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1521
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a6550d580b87c20800000000000000
+      internalID: 3204505223646505492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_115
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1498
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023fd1cdf01d7caf0800000000000000
+      internalID: -376102177814482144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_116
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 1490
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74db465b5c3667e0800000000000000
+      internalID: -1772663040336210819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_117
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 1481
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee830faf4e95a800800000000000000
+      internalID: 623078188536532708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_118
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1415
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5734db7752ee29870800000000000000
+      internalID: 8688268475841201013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_119
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1430
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93349b33079ce8a60800000000000000
+      internalID: 7678295898454573881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_120
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 1395
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3263c3715ff1691b0800000000000000
+      internalID: -5650293544972437981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_121
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1322
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb4414e749667960800000000000000
+      internalID: 7599377178724420586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_122
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1372
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0230944e182643f0800000000000000
+      internalID: -917001363658886642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_123
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1323
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d7bb89362754730800000000000000
+      internalID: 3982715217568824586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_124
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 1326
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b1bfe61a358a6d0800000000000000
+      internalID: -2979039200688792797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_125
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1280
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976ab5f337141d8a0800000000000000
+      internalID: -6282168041965115783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_126
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1268
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c096ed59215c1680800000000000000
+      internalID: -8783055935168409405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_127
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1311
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61763bf3e8f8a1a0800000000000000
+      internalID: -6797909979459849874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_128
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 1283
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b573d67a0151340800000000000000
+      internalID: 4833788086330022726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_129
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 1290
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79154766afa5ef8e0800000000000000
+      internalID: -1657787581318540905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_130
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1261
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328eedb0421501880800000000000000
+      internalID: -8642318469664151517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_131
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1256
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55aa31dc689ff0a10800000000000000
+      internalID: 1877993926998338133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_132
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 1232
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1621712e5e917e690800000000000000
+      internalID: -7573055773268831647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_133
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 1257
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0979c062d3fc050800000000000000
+      internalID: 5822940076842651874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_134
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1162
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c749c7f98509e20800000000000000
+      internalID: 3355279164404169879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_135
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1205
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827f02ff56433e9d0800000000000000
+      internalID: -2746293735089178840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_136
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 1160
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e79a6d644999cd0800000000000000
+      internalID: -2550844681958621680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_137
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 1170
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d699e5575ed791b0800000000000000
+      internalID: -5649802740828105000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_138
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1140
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fd1263eeda40e60800000000000000
+      internalID: 7927652482700926812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_139
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 1085
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b3e7bafbe4c1700800000000000000
+      internalID: 512371042736290638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_140
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 1119
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57c36236ada46b90800000000000000
+      internalID: -7249478570838079651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_141
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 1114
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b964793d5bbe4c0800000000000000
+      internalID: -4257109102367958194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_142
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 1129
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98884737ea88da10800000000000000
+      internalID: 1934448765625206939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_143
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 1135
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07e58285a6c6e8d0800000000000000
+      internalID: -2817346102711949556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_144
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 1095
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8c7fcd19e4d7080800000000000000
+      internalID: -9188101276381492993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_145
+      rect:
+        serializedVersion: 2
+        x: 3819
+        y: 1126
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7881b1daa595c220800000000000000
+      internalID: 2505573328596600957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_146
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1063
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8682a195b910c1e20800000000000000
+      internalID: 3322532391819028584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_147
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1076
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564b6b5eff8ee69d0800000000000000
+      internalID: -2779027734272756635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_148
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 1041
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3d5cde3b73af940800000000000000
+      internalID: 5330634354874242028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_149
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 1038
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e56dc4359d63f940800000000000000
+      internalID: 5328723271712859620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_150
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 1033
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b958737e31bc7dc0800000000000000
+      internalID: -3639839517038847563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_151
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 1080
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d225be486feccaeb0800000000000000
+      internalID: -4707159952321719763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_152
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 984
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839aaed4b7e7398a0800000000000000
+      internalID: -6299552385707890376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_153
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 982
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af643785a02936160800000000000000
+      internalID: 7017613217504642810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_154
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 1014
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7887f9595624007d0800000000000000
+      internalID: -2954288351485659001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_155
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 1018
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0db0509734dd87c0800000000000000
+      internalID: -4067361553336189685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_156
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 901
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94c40d8f53e579a0800000000000000
+      internalID: -6235828109497285475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_157
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 910
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8181117b1e56e00800000000000000
+      internalID: 1037483465560824030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_158
+      rect:
+        serializedVersion: 2
+        x: 3820
+        y: 939
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45673e7cb31d6e10800000000000000
+      internalID: 2192430293891638604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_159
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 841
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be259a6f3eaeade90800000000000000
+      internalID: -7000024405977246997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_160
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 867
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaa149e1d2e0b210800000000000000
+      internalID: 1346825679773215419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_161
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 845
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa2688fb495ccb20800000000000000
+      internalID: 3155995621706836722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_162
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 841
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ab4964ef8278010800000000000000
+      internalID: 1190965699033741826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_163
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 882
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aa60ffcf6202650800000000000000
+      internalID: 6206003154568784451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_164
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 784
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed05dc57774ace880800000000000000
+      internalID: -8580302357063184162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_165
+      rect:
+        serializedVersion: 2
+        x: 3327
+        y: 827
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d0ccbafe722f210800000000000000
+      internalID: 1365197547379625305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_166
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 692
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb312e20a72d2ec0800000000000000
+      internalID: -3590169759022236675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_167
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 676
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03986068ab27766a0800000000000000
+      internalID: -6456065395374257872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_168
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 709
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fba65ad533597f70800000000000000
+      internalID: 9185464405760322549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_169
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 716
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9e26c39d57a5220800000000000000
+      internalID: 2475420521074977233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_170
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 716
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294ed5ec6dfaaeb10800000000000000
+      internalID: 2011613520694469778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_171
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 617
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503e06d627e5eb040800000000000000
+      internalID: 4665270109556761349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_172
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 653
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c546c541894738d00800000000000000
+      internalID: 973750140967609436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_173
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 503
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3f022caab171a10800000000000000
+      internalID: 1880001789665801174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_174
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 548
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89e9871d0d20c620800000000000000
+      internalID: 2792281303222446475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_175
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 415
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604e9b31f1d238c70800000000000000
+      internalID: 8972064494150345734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_176
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 421
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda874a5b3c87ce40800000000000000
+      internalID: 5676660041869396702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_177
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 432
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad819754c1a80d90800000000000000
+      internalID: -7131272145286361687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_178
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 307
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2be9f3bf863ba40800000000000000
+      internalID: 5382761407951319768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars Small_2_179
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 97
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a28cc5d8bf490740800000000000000
+      internalID: 5118710106762805929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Stars Small_2_0: 1523507617705049256
+      Stars Small_2_1: 5018106774579534956
+      Stars Small_2_10: -2259999535203102733
+      Stars Small_2_100: 4910826218823930499
+      Stars Small_2_101: -6802760675291864103
+      Stars Small_2_102: -7523339290865844633
+      Stars Small_2_103: 6465843151051192537
+      Stars Small_2_104: -3950505649067778096
+      Stars Small_2_105: 7970890155823254813
+      Stars Small_2_106: 7055675991708734124
+      Stars Small_2_107: -5063344511507854238
+      Stars Small_2_108: 2442467544512052224
+      Stars Small_2_109: 7344036816001250930
+      Stars Small_2_11: -7652577015441465060
+      Stars Small_2_110: 6575559603220541329
+      Stars Small_2_111: -1280923105804227571
+      Stars Small_2_112: -5230670739408165488
+      Stars Small_2_113: 8927594655749635292
+      Stars Small_2_114: 3204505223646505492
+      Stars Small_2_115: -376102177814482144
+      Stars Small_2_116: -1772663040336210819
+      Stars Small_2_117: 623078188536532708
+      Stars Small_2_118: 8688268475841201013
+      Stars Small_2_119: 7678295898454573881
+      Stars Small_2_12: -7505574089890650473
+      Stars Small_2_120: -5650293544972437981
+      Stars Small_2_121: 7599377178724420586
+      Stars Small_2_122: -917001363658886642
+      Stars Small_2_123: 3982715217568824586
+      Stars Small_2_124: -2979039200688792797
+      Stars Small_2_125: -6282168041965115783
+      Stars Small_2_126: -8783055935168409405
+      Stars Small_2_127: -6797909979459849874
+      Stars Small_2_128: 4833788086330022726
+      Stars Small_2_129: -1657787581318540905
+      Stars Small_2_13: 3217990905746869009
+      Stars Small_2_130: -8642318469664151517
+      Stars Small_2_131: 1877993926998338133
+      Stars Small_2_132: -7573055773268831647
+      Stars Small_2_133: 5822940076842651874
+      Stars Small_2_134: 3355279164404169879
+      Stars Small_2_135: -2746293735089178840
+      Stars Small_2_136: -2550844681958621680
+      Stars Small_2_137: -5649802740828105000
+      Stars Small_2_138: 7927652482700926812
+      Stars Small_2_139: 512371042736290638
+      Stars Small_2_14: 6366593853108007834
+      Stars Small_2_140: -7249478570838079651
+      Stars Small_2_141: -4257109102367958194
+      Stars Small_2_142: 1934448765625206939
+      Stars Small_2_143: -2817346102711949556
+      Stars Small_2_144: -9188101276381492993
+      Stars Small_2_145: 2505573328596600957
+      Stars Small_2_146: 3322532391819028584
+      Stars Small_2_147: -2779027734272756635
+      Stars Small_2_148: 5330634354874242028
+      Stars Small_2_149: 5328723271712859620
+      Stars Small_2_15: 6296995649231551992
+      Stars Small_2_150: -3639839517038847563
+      Stars Small_2_151: -4707159952321719763
+      Stars Small_2_152: -6299552385707890376
+      Stars Small_2_153: 7017613217504642810
+      Stars Small_2_154: -2954288351485659001
+      Stars Small_2_155: -4067361553336189685
+      Stars Small_2_156: -6235828109497285475
+      Stars Small_2_157: 1037483465560824030
+      Stars Small_2_158: 2192430293891638604
+      Stars Small_2_159: -7000024405977246997
+      Stars Small_2_16: 6461079619387458845
+      Stars Small_2_160: 1346825679773215419
+      Stars Small_2_161: 3155995621706836722
+      Stars Small_2_162: 1190965699033741826
+      Stars Small_2_163: 6206003154568784451
+      Stars Small_2_164: -8580302357063184162
+      Stars Small_2_165: 1365197547379625305
+      Stars Small_2_166: -3590169759022236675
+      Stars Small_2_167: -6456065395374257872
+      Stars Small_2_168: 9185464405760322549
+      Stars Small_2_169: 2475420521074977233
+      Stars Small_2_17: -768012398414648753
+      Stars Small_2_170: 2011613520694469778
+      Stars Small_2_171: 4665270109556761349
+      Stars Small_2_172: 973750140967609436
+      Stars Small_2_173: 1880001789665801174
+      Stars Small_2_174: 2792281303222446475
+      Stars Small_2_175: 8972064494150345734
+      Stars Small_2_176: 5676660041869396702
+      Stars Small_2_177: -7131272145286361687
+      Stars Small_2_178: 5382761407951319768
+      Stars Small_2_179: 5118710106762805929
+      Stars Small_2_18: 3242065913084147487
+      Stars Small_2_19: -1795922244145215930
+      Stars Small_2_2: 516877064058191897
+      Stars Small_2_20: 3320812896249004870
+      Stars Small_2_21: 7688301968376871300
+      Stars Small_2_22: -902736972085568231
+      Stars Small_2_23: 6909004978273474156
+      Stars Small_2_24: 1181209804845133222
+      Stars Small_2_25: -1696766466251866817
+      Stars Small_2_26: 210367405690114969
+      Stars Small_2_27: -213332700919725258
+      Stars Small_2_28: -950963804736625038
+      Stars Small_2_29: 3399855088228410746
+      Stars Small_2_3: -8926606411426188904
+      Stars Small_2_30: 8630298209014282651
+      Stars Small_2_31: 702605371261834106
+      Stars Small_2_32: 5169592260845566753
+      Stars Small_2_33: 7834925395337482145
+      Stars Small_2_34: 4992180870248756560
+      Stars Small_2_35: -5492382087156552262
+      Stars Small_2_36: -4814949410433210689
+      Stars Small_2_37: -7410234859438539813
+      Stars Small_2_38: 2443022632669579330
+      Stars Small_2_39: -3019555466460558523
+      Stars Small_2_4: -5982809141842115798
+      Stars Small_2_40: 1636018143447995195
+      Stars Small_2_41: -6095027204177035496
+      Stars Small_2_42: -5353578791106156520
+      Stars Small_2_43: -730806562745989785
+      Stars Small_2_44: -4145552692745690470
+      Stars Small_2_45: -1314119445506334828
+      Stars Small_2_46: 4799690651192827394
+      Stars Small_2_47: -5921051317412491355
+      Stars Small_2_48: -347050073430658846
+      Stars Small_2_49: -574363964483710341
+      Stars Small_2_5: -2239220016581444279
+      Stars Small_2_50: 6245374452222845801
+      Stars Small_2_51: -4778473120120422566
+      Stars Small_2_52: 9158427734516138842
+      Stars Small_2_53: 9209940532215251364
+      Stars Small_2_54: 5681243067521248099
+      Stars Small_2_55: 6202290717775649145
+      Stars Small_2_56: -2167345177945710480
+      Stars Small_2_57: -3990428830512705318
+      Stars Small_2_58: 8787791792276682949
+      Stars Small_2_59: -266834249594747236
+      Stars Small_2_6: 2635490220122325326
+      Stars Small_2_60: -1893311400062312039
+      Stars Small_2_61: -2611484698260855244
+      Stars Small_2_62: -3418221051273492064
+      Stars Small_2_63: -2290439145647406118
+      Stars Small_2_64: -333723149288542838
+      Stars Small_2_65: 9163579830394915347
+      Stars Small_2_66: 878917493899476321
+      Stars Small_2_67: -3427371372216581262
+      Stars Small_2_68: 6125618695622281692
+      Stars Small_2_69: 702963893505724722
+      Stars Small_2_7: -7648778031338662837
+      Stars Small_2_70: 98145596657779979
+      Stars Small_2_71: 251283800461953363
+      Stars Small_2_72: 2815903282597272859
+      Stars Small_2_73: -8808706258407592738
+      Stars Small_2_74: 7473220034782621245
+      Stars Small_2_75: 5272654966357398145
+      Stars Small_2_76: -2968739422296628893
+      Stars Small_2_77: -4637545857407018301
+      Stars Small_2_78: 5314495144112794160
+      Stars Small_2_79: -3919397436054926983
+      Stars Small_2_8: 8642217479685280280
+      Stars Small_2_80: -4585733253522284514
+      Stars Small_2_81: -327651154849209304
+      Stars Small_2_82: 5509662394718226561
+      Stars Small_2_83: -8508876777808802358
+      Stars Small_2_84: 8736197129060513943
+      Stars Small_2_85: 7074119340559925772
+      Stars Small_2_86: 6503035111855159987
+      Stars Small_2_87: -3338791777217856651
+      Stars Small_2_88: -2318265915621180883
+      Stars Small_2_89: 3147810623374240502
+      Stars Small_2_9: -3443513724779174684
+      Stars Small_2_90: -8981919364555960923
+      Stars Small_2_91: 8244144918631398929
+      Stars Small_2_92: 4957366366438663223
+      Stars Small_2_93: 5409927129329080405
+      Stars Small_2_94: 4710875588217826202
+      Stars Small_2_95: 1232618410891357649
+      Stars Small_2_96: 2117237126240608648
+      Stars Small_2_97: 129932659679588405
+      Stars Small_2_98: 5566865256048968422
+      Stars Small_2_99: -361515244697424586
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
