@@ -100,13 +100,11 @@ public class Enemy : MonoBehaviour, IDamageable
 
     public void OnTakeDamage()
     {
-        Debug.Log("Take damage");
         animator.SetTrigger("hurt");
     }
 
     public void OnDeath()
     {
-        Debug.Log("Death");
         animator.SetBool("isDead", true);
         SwitchState(deathState);
     }
