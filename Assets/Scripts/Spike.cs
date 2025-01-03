@@ -7,7 +7,6 @@ public class Spike : MonoBehaviour
    {
       if (!collision.gameObject.CompareTag("Player")) return;
 
-      Debug.Log("Do damage");
       var player = collision.gameObject.GetComponent<Player>();
       player.TakeDamage(20);
    }
