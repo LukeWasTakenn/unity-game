@@ -87,7 +87,7 @@ public class Boss : MonoBehaviour, IDamageable
     {
         SwitchState(getToPlayerState);
         
-        var pos = new Vector2(player.transform.position.x, player.transform.position.y + 1);
+        var pos = new Vector2(player.transform.position.x, player.transform.position.y + 1.9f);
         
         Instantiate(spell, pos, Quaternion.identity);
     }
