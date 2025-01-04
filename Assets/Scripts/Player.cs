@@ -1,3 +1,4 @@
+using SmallHedge.SoundManager;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
@@ -89,6 +90,7 @@ public class Player : MonoBehaviour
             jumpsRemaining--;
             animator.SetBool("isGrounded", false);
             animator.SetTrigger("jump");
+            SoundManager.PlaySound(SoundType.Jump);
         }
         else if (context.canceled)
         {
@@ -104,6 +106,7 @@ public class Player : MonoBehaviour
         if (context.performed && canAttack)
         {
             animator.SetTrigger("attack");
+            SoundManager.PlaySound(SoundType.Attack);
             canAttack = false;
             Invoke("SetCanAttack", 0.3f);
             
@@ -194,6 +197,11 @@ public class Player : MonoBehaviour
         Invoke("RestartScene", 3f);
     }
 
+    public void PlayFootstepSound()
+    {
+        SoundManager.PlaySound(SoundType.Footstep, null, 0.4f);
+    }
+    
     private void RestartScene()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);

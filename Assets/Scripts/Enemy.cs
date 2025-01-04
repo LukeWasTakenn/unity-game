@@ -1,3 +1,4 @@
+using SmallHedge.SoundManager;
 using UnityEngine;
 
 public class Enemy : MonoBehaviour, IDamageable
@@ -28,12 +29,15 @@ public class Enemy : MonoBehaviour, IDamageable
     
     public EnemyHealth health;
     
+    public AudioSource audioSource;
+    
     public void Awake()
     {
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         collision = GetComponent<BoxCollider2D>();
         health = GetComponent<EnemyHealth>();
+        audioSource = GetComponent<AudioSource>();
         
         patrolState = new PatrolState(this, "patrol");
         playerDetectedState = new PlayerDetectedState(this, "playerDetected");
@@ -87,6 +91,7 @@ public class Enemy : MonoBehaviour, IDamageable
 
     public void OnAttackAnimationFinish()
     {
+        SoundManager.PlaySound(SoundType.EnemyAttack, audioSource);
         var playerCollider = CheckForPlayer();
 
         if (!playerCollider) return;
@@ -107,5 +112,10 @@ public class Enemy : MonoBehaviour, IDamageable
     {
         animator.SetBool("isDead", true);
         SwitchState(deathState);
+    }
+
+    public void PlayFootstepSound()
+    {
+        SoundManager.PlaySound(SoundType.EnemyFootstep, audioSource, 0.3f);
     }
 }

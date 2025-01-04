@@ -15,7 +15,7 @@ public class Spell : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        hit = Physics2D.OverlapBox(new Vector2(transform.position.x, transform.position.y), new Vector3(rayWidth, rayHeight, 0), 0, playerLayer);
+        hit = Physics2D.OverlapBox(new Vector2(transform.position.x, transform.position.y - 1.2f), new Vector3(rayWidth, rayHeight, 0), 0, playerLayer);
     }
 
     public void DoDamage()

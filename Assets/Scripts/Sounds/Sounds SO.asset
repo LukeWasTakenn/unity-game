@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1870ecf0b6c15b148a28ab8f19e1b987, type: 3}
+  m_Name: Sounds SO
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Attack
+    volume: 1
+    mixer: {fileID: -1040729300955834172, guid: 056be2d53506741409105b1f90978259, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: f33cbf7cc352a6f4e9337697d5fe1384, type: 3}
+  - name: Footstep
+    volume: 1
+    mixer: {fileID: -1040729300955834172, guid: 056be2d53506741409105b1f90978259, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: b04914b5801123b4dafba88cbcb5bc74, type: 3}
+  - name: Jump
+    volume: 1
+    mixer: {fileID: -1040729300955834172, guid: 056be2d53506741409105b1f90978259, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: 7fb9459422856b541ad74923448e4329, type: 3}
+    - {fileID: 8300000, guid: 8b842d77c8096ae4dbf0dac08e59300d, type: 3}
+  - name: Hurt
+    volume: 1
+    mixer: {fileID: -1040729300955834172, guid: 056be2d53506741409105b1f90978259, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: 12d189ce6fb32874a84f96425d2b658c, type: 3}
+    - {fileID: 8300000, guid: bc4d5481c550aa740b7c891ad501bdba, type: 3}
+  - name: WinePickup
+    volume: 1
+    mixer: {fileID: -1040729300955834172, guid: 056be2d53506741409105b1f90978259, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: 55f3f33b222b82442a854b156149c077, type: 3}
+    - {fileID: 8300000, guid: 7faa6d7ca996b6b49876d44a467cbebb, type: 3}
+    - {fileID: 8300000, guid: c9f75484e5cad8a4280337c47c62b572, type: 3}
+    - {fileID: 8300000, guid: 4206e5267359e694b94fc09b7b8d5b5e, type: 3}
+  - name: EnemyFootstep
+    volume: 1
+    mixer: {fileID: -1040729300955834172, guid: 056be2d53506741409105b1f90978259, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: bd5653e52c4636e4aa3b0ced8f49a18d, type: 3}
+  - name: EnemyAttack
+    volume: 1
+    mixer: {fileID: -1040729300955834172, guid: 056be2d53506741409105b1f90978259, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: 2b37ec477f9a87846a0855456ddd8812, type: 3}
