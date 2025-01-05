@@ -189,12 +189,11 @@ public class Player : MonoBehaviour
         
         if (currentHealth > 0) return;
         
-        
         isDead = true;
         animator.SetTrigger("die");
         
         GetComponent<PlayerInput>().enabled = false;
-        Invoke("RestartScene", 3f);
+        Invoke("DeathScene", 3f);
     }
 
     public void PlayFootstepSound()
@@ -202,9 +201,9 @@ public class Player : MonoBehaviour
         SoundManager.PlaySound(SoundType.Footstep, null, 0.4f);
     }
     
-    private void RestartScene()
+    private void DeathScene()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        SceneManager.LoadScene("Scenes/PlayerDied");
     }
     
 }

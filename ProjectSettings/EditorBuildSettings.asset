@@ -23,6 +23,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level3.unity
     guid: 79261f8d3b008b049ac551f23be9f645
+  - enabled: 1
+    path: Assets/Scenes/PlayerDied.unity
+    guid: 2d854acc8430cab4489cebfa3c911031
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

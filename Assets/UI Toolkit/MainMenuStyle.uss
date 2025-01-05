@@ -1,3 +1,7 @@
+.button:hover {
+    background-color: rgb(101, 52, 42);
+}
+
 .button {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -24,8 +28,4 @@
     border-top-color: rgb(33, 32, 33);
     border-bottom-color: rgb(33, 32, 33);
     background-color: rgb(74, 35, 27);
-}
-
-.button:hover {
-    background-color: rgb(101, 52, 42);
 }

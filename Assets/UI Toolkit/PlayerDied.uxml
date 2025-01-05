@@ -1,0 +1,8 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/MainMenuStyle.uss?fileID=7433441132597879392&amp;guid=bf0b750900e04c9459b5a3bafc76b47f&amp;type=3#MainMenuStyle" />
+    <engine:VisualElement enabled="true" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0.39); font-size: 48px; -unity-text-align: middle-center; justify-content: center; align-items: center; transition-property: opacity; transition-duration: 2s; opacity: 1;">
+        <engine:Label text="YOU DIED" style="color: rgb(255, 195, 82); -unity-background-scale-mode: stretch-to-fill; -unity-font-definition: url(&quot;project://database/Assets/TextMesh%20Pro/Fonts/dogicapixel.otf?fileID=12800000&amp;guid=4b343779378a70d4d96fec9e39504822&amp;type=3#dogicapixel&quot;); -unity-background-image-tint-color: rgb(255, 195, 82);" />
+        <engine:Button text="RESTART" name="RestartButton" class="button" />
+        <engine:Button text="MAIN MENU" name="MainMenuButton" class="button" />
+    </engine:VisualElement>
+</engine:UXML>
