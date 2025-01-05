@@ -1,3 +1,4 @@
+using SmallHedge.SoundManager;
 using UnityEngine;
 
 public class Boss : MonoBehaviour, IDamageable
@@ -10,6 +11,7 @@ public class Boss : MonoBehaviour, IDamageable
     public BoxCollider2D collision;
     public Player player;
     public GameObject spell;
+    private AudioSource audioSource;
     
     public Transform attackCollider;
     public float attackRange = 1.5f;
@@ -36,6 +38,8 @@ public class Boss : MonoBehaviour, IDamageable
         animator = GetComponent<Animator>();
         player = playerTransform.GetComponent<Player>();
         collision = GetComponent<BoxCollider2D>();
+        audioSource = GetComponent<AudioSource>();
+        
         getToPlayerState = new GetToPlayerState(this, "walk");
         startAttackState = new StartAttackState(this, "start_attack");
         doAttackState = new DoAttackState(this, "attack_finish");
@@ -90,6 +94,7 @@ public class Boss : MonoBehaviour, IDamageable
         var pos = new Vector2(player.transform.position.x, player.transform.position.y + 1.9f);
         
         Instantiate(spell, pos, Quaternion.identity);
+        SoundManager.PlaySound(SoundType.Spell, null, 0.7f);
     }
     
     private void OnDrawGizmos()
@@ -107,6 +112,11 @@ public class Boss : MonoBehaviour, IDamageable
     {
         animator.SetTrigger("die");
         SwitchState(deathState);
+    }
+
+    public void PlayFootstepSound()
+    {
+        SoundManager.PlaySound(SoundType.EnemyFootstep, audioSource, 0.3f);
     }
 
     public void OnTakeDamage()

@@ -91,7 +91,7 @@ public class Enemy : MonoBehaviour, IDamageable
 
     public void OnAttackAnimationFinish()
     {
-        SoundManager.PlaySound(SoundType.EnemyAttack, audioSource);
+        SoundManager.PlaySound(SoundType.EnemyAttack);
         var playerCollider = CheckForPlayer();
 
         if (!playerCollider) return;
@@ -114,6 +114,11 @@ public class Enemy : MonoBehaviour, IDamageable
         SwitchState(deathState);
     }
 
+    public void PlayExplosionSound()
+    {
+        SoundManager.PlaySound(SoundType.EnemyExplode, null, 0.2f);
+    }
+    
     public void PlayFootstepSound()
     {
         SoundManager.PlaySound(SoundType.EnemyFootstep, audioSource, 0.3f);

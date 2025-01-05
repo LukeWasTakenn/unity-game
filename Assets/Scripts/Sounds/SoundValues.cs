@@ -11,6 +11,13 @@ namespace SmallHedge.SoundManager
         Hurt,
         WinePickup,
         EnemyFootstep,
-        EnemyAttack
+        EnemyAttack,
+        EnemyExplode,
+        EnemyHit,
+        TeleporterActivate,
+        BossAttackFinish,
+        Spell,
+        BossDeath,
+        BossCastStart
     }
 }

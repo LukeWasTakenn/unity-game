@@ -53,3 +53,38 @@ MonoBehaviour:
     mixer: {fileID: -1040729300955834172, guid: 056be2d53506741409105b1f90978259, type: 2}
     sounds:
     - {fileID: 8300000, guid: 2b37ec477f9a87846a0855456ddd8812, type: 3}
+  - name: EnemyExplode
+    volume: 1
+    mixer: {fileID: -1040729300955834172, guid: 056be2d53506741409105b1f90978259, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: 867fc4243f03ea74f9d9626bd8b746d2, type: 3}
+  - name: EnemyHit
+    volume: 1
+    mixer: {fileID: -1040729300955834172, guid: 056be2d53506741409105b1f90978259, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: 2532ecdb439c1d34da346fd4431243dc, type: 3}
+  - name: TeleporterActivate
+    volume: 1
+    mixer: {fileID: -1040729300955834172, guid: 056be2d53506741409105b1f90978259, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: 717f2ad69e9d4d243a39486bb7762579, type: 3}
+  - name: BossAttackFinish
+    volume: 1
+    mixer: {fileID: -1040729300955834172, guid: 056be2d53506741409105b1f90978259, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: 9d0aed4ffcf5fc545afc432ae86279ac, type: 3}
+  - name: Spell
+    volume: 1
+    mixer: {fileID: -1040729300955834172, guid: 056be2d53506741409105b1f90978259, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: bb83d0699aba1374d9674b3591806cf0, type: 3}
+  - name: BossDeath
+    volume: 1
+    mixer: {fileID: -1040729300955834172, guid: 056be2d53506741409105b1f90978259, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: 66146ef31f17b474f9967c1362a6a6a4, type: 3}
+  - name: BossCastStart
+    volume: 1
+    mixer: {fileID: -1040729300955834172, guid: 056be2d53506741409105b1f90978259, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: c34878a052e6ff240bf7dccd0485776b, type: 3}

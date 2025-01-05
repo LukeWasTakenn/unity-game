@@ -1,3 +1,4 @@
+using SmallHedge.SoundManager;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
@@ -14,6 +15,7 @@ public class Teleporter : Interactable
     public override void Interact()
     {
         animator.Play("Activate");
+        SoundManager.PlaySound(SoundType.TeleporterActivate, null, 0.4f);
     }
 
     public void OnAnimationEnd()
