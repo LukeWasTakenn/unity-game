@@ -1,5 +1,6 @@
 using SmallHedge.SoundManager;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Boss : MonoBehaviour, IDamageable
 {
@@ -105,6 +106,8 @@ public class Boss : MonoBehaviour, IDamageable
 
     public void OnDeathAnimationEnd()
     {
+        GameManager.StopStopwatch();
+        SceneManager.LoadScene("Scenes/GameComplete");
         Destroy(gameObject);
     }
 
@@ -118,9 +121,14 @@ public class Boss : MonoBehaviour, IDamageable
     {
         SoundManager.PlaySound(SoundType.EnemyFootstep, audioSource, 0.3f);
     }
-
+    
     public void OnTakeDamage()
     {
         return;
+    }
+
+    private void GameComplete()
+    {
+        SceneManager.LoadScene("Scenes/GameComplete");
     }
 }

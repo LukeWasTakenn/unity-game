@@ -23,6 +23,8 @@ public class MainMenuEvents : MonoBehaviour
 
     private void PlayButtonClicked()
     {
+        GameManager.ResetStopwatch();
+        GameManager.StartStopwatch();
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 

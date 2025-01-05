@@ -1,0 +1,12 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/MainMenuStyle.uss?fileID=7433441132597879392&amp;guid=bf0b750900e04c9459b5a3bafc76b47f&amp;type=3#MainMenuStyle" />
+    <Style src="project://database/Assets/UI%20Toolkit/GameFinished.uss?fileID=7433441132597879392&amp;guid=21b4c7f2c857f6e47a737dc4b0d76be3&amp;type=3#GameFinished" />
+    <engine:VisualElement style="flex-grow: 1; align-items: center; justify-content: center;">
+        <engine:VisualElement name="VisualElement" style="height: auto; width: auto; background-color: rgba(0, 0, 0, 0.63); padding-top: 24px; padding-right: 24px; padding-bottom: 24px; padding-left: 24px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px;">
+            <engine:Label text="GAME COMPLETE" style="font-size: 64px; -unity-font-definition: url(&quot;project://database/Assets/TextMesh%20Pro/Fonts/dogicapixel.otf?fileID=12800000&amp;guid=4b343779378a70d4d96fec9e39504822&amp;type=3#dogicapixel&quot;); color: rgb(255, 195, 82); margin-bottom: 48px;" />
+            <engine:Label text="WINE: " name="WineLabel" class="stat-label" />
+            <engine:Label text="TIME:" name="TimeLabel" class="stat-label" />
+            <engine:Button text="MAIN MENU" name="MainMenuButton" class="button" style="margin-top: 48px; align-self: center; align-content: center;" />
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>

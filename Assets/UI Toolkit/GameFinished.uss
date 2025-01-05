@@ -26,7 +26,10 @@
     background-color: rgb(74, 35, 27);
 }
 
-
-.button:hover {
-    background-color: rgb(101, 52, 42);
+.stat-label {
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+    -unity-font-definition: url("project://database/Assets/TextMesh%20Pro/Fonts/dogicapixel.otf?fileID=12800000&guid=4b343779378a70d4d96fec9e39504822&type=3#dogicapixel");
+    padding-top: 12px;
+    padding-bottom: 12px;
 }

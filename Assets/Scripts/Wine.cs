@@ -1,5 +1,8 @@
+using System.Collections;
+using NUnit.Framework.Internal;
 using SmallHedge.SoundManager;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Wine : MonoBehaviour, ICollectible
 {
@@ -27,8 +30,9 @@ public class Wine : MonoBehaviour, ICollectible
 
     public void Collect()
     {
-        Destroy(gameObject);
         ScoreManager.Instance.CollectWine();
+        GameManager.WineCollected++;
         SoundManager.PlaySound(SoundType.WinePickup);
+        Destroy(gameObject);
     }
 }
