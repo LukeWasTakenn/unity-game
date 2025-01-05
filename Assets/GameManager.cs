@@ -4,6 +4,7 @@ public class GameManager : MonoBehaviour
 {
     private static GameManager Instance;
     
+    public static int LastSceneIndex;
     public static int WineCollected = 0;
     public static float CurrentTime = 0f;
 

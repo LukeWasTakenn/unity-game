@@ -13,7 +13,7 @@ public class DeathSceneEvents : MonoBehaviour
         var restartButton = document.rootVisualElement.Q<Button>("RestartButton");
         var mainMenuButton = document.rootVisualElement.Q<Button>("MainMenuButton");
         
-        restartButton.clicked += () => { SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex); };
+        restartButton.clicked += () => { SceneManager.LoadScene(GameManager.LastSceneIndex); };
         mainMenuButton.clicked += () => { SceneManager.LoadScene(0); };
     }
 }

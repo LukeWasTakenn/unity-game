@@ -203,6 +203,7 @@ public class Player : MonoBehaviour
     
     private void DeathScene()
     {
+        GameManager.LastSceneIndex = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene("Scenes/PlayerDied");
     }
     
