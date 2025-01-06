@@ -105,7 +105,11 @@ public class Enemy : MonoBehaviour, IDamageable
 
     public void OnTakeDamage()
     {
-        animator.SetTrigger("hurt");
+        SoundManager.PlaySound(SoundType.EnemyHit, null, 0.3f);
+        if (currentState != playerDetectedState)
+        {
+            animator.SetTrigger("hurt");
+        }
     }
 
     public void OnDeath()
