@@ -1,0 +1,7 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/globals.uss?fileID=7433441132597879392&amp;guid=5bd3889ad69c7f647944f7bca741ecdc&amp;type=3#globals" />
+    <Style src="project://database/Assets/UI%20Toolkit/SettingsStyle.uss?fileID=7433441132597879392&amp;guid=161dd3e7414218c459b19ffb238ad967&amp;type=3#SettingsStyle" />
+    <engine:VisualElement style="flex-grow: 1;">
+        <engine:Label text="Label" class="label" style="font-size: 48px; color: rgb(178, 78, 78);" />
+    </engine:VisualElement>
+</engine:UXML>

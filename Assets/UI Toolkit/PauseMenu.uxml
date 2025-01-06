@@ -1,0 +1,12 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/MainMenuStyle.uss?fileID=7433441132597879392&amp;guid=bf0b750900e04c9459b5a3bafc76b47f&amp;type=3#MainMenuStyle" />
+    <engine:VisualElement style="flex-grow: 1; justify-content: center; align-self: auto; align-content: center; align-items: center; background-color: rgba(0, 0, 0, 0.59); flex-shrink: 0;">
+        <engine:VisualElement style="flex-grow: 0; align-content: center; align-self: center; justify-content: center; align-items: center;">
+            <engine:Label text="PAUSED" style="font-size: 48px; -unity-text-align: upper-center; -unity-font-definition: url(&quot;project://database/Assets/TextMesh%20Pro/Fonts/dogicapixel.otf?fileID=12800000&amp;guid=4b343779378a70d4d96fec9e39504822&amp;type=3#dogicapixel&quot;); color: rgb(255, 195, 82); margin-bottom: 24px;" />
+            <engine:Slider label="SFX" value="42" high-value="1" name="SfxSlider" low-value="0.0001" class="slider" />
+            <engine:Slider label="MUSIC" value="42" high-value="1" name="MusicSlider" low-value="0.0001" class="slider" />
+            <engine:Button text="CONTINUE" name="ContinueButton" class="button" />
+            <engine:Button text="QUIT" name="QuitButton" class="button" />
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>

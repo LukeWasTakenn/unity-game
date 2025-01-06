@@ -42,6 +42,8 @@ public class Player : MonoBehaviour
     public int currentHealth;
     public bool isDead = false;
 
+    [Header("Misc")] public GameObject pauseMenu;
+
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -135,6 +137,16 @@ public class Player : MonoBehaviour
                 interactable.Interact();
                 return;
             }
+        }
+    }
+
+    public void Pause(InputAction.CallbackContext context)
+    {
+        if (context.performed)
+        {
+            Time.timeScale = 0;
+            pauseMenu.SetActive(true);
+            GetComponent<PlayerInput>().enabled = false;
         }
     }
 

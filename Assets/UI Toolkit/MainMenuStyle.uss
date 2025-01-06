@@ -26,7 +26,67 @@
     background-color: rgb(74, 35, 27);
 }
 
-
 .button:hover {
     background-color: rgb(101, 52, 42);
+}
+
+.button {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    width: 400px;
+    margin-top: 24px;
+    -unity-font-definition: url("project://database/Assets/TextMesh%20Pro/Fonts/dogicapixel.otf?fileID=12800000&guid=4b343779378a70d4d96fec9e39504822&type=3#dogicapixel");
+    padding-top: 32px;
+    padding-right: 32px;
+    padding-bottom: 32px;
+    padding-left: 32px;
+    font-size: 24px;
+    -unity-text-align: middle-center;
+    text-overflow: clip;
+    color: rgb(255, 195, 82);
+    -unity-background-scale-mode: stretch-to-fill;
+    border-left-color: rgb(33, 32, 33);
+    border-right-color: rgb(33, 32, 33);
+    border-top-color: rgb(33, 32, 33);
+    border-bottom-color: rgb(33, 32, 33);
+    background-color: rgb(74, 35, 27);
+}
+
+.slider {
+    width: 100%;
+    color: rgb(255, 195, 82);
+    -unity-font-definition: url("project://database/Assets/TextMesh%20Pro/Fonts/dogicapixel.otf?fileID=12800000&guid=4b343779378a70d4d96fec9e39504822&type=3#dogicapixel");
+}
+
+.slider #unity-tracker {
+    background-color: rgb(74, 35, 27);
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+}
+
+.slider #unity-dragger {
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    background-color: rgb(255, 195, 82);
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    width: 20px;
+    height: 20px;
+    margin-top: -10px;
+}
+
+.slider Label {
+    color: rgb(255, 195, 82);
 }
