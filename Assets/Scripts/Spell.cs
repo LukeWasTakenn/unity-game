@@ -8,7 +8,7 @@ public class Spell : MonoBehaviour
     public float rayDistance = 3.2f;
     public float rayWidth = 2.5f;
     public float rayHeight = 2.8f;
-    public int damage = 20;
+    public int damage = 35;
     
     private Collider2D hit;
 
