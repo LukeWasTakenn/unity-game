@@ -6,12 +6,17 @@ using UnityEngine.UIElements;
 public class MainMenuEvents : MonoBehaviour
 {
     public AudioMixer mixer;
+
+    private VisualElement mainMenuContainer;
+    private VisualElement howToPlayContainer;
     
     private UIDocument document;
 
     private void Awake()
     {
         document = GetComponent<UIDocument>();
+        mainMenuContainer = document.rootVisualElement.Q<VisualElement>("MainMenuContainer");
+        howToPlayContainer = document.rootVisualElement.Q<VisualElement>("HowToPlayContainer");
         
         var playButton = document.rootVisualElement.Q<Button>("PlayButton");
         playButton.clicked += PlayButtonClicked;
@@ -29,6 +34,22 @@ public class MainMenuEvents : MonoBehaviour
         
         sfxSlider.RegisterCallback<ChangeEvent<float>>(SfxChanged);
         musicSlider.RegisterCallback<ChangeEvent<float>>(MusicChanged);
+        
+        var continueButton = document.rootVisualElement.Q<Button>("ContinueButton");
+        var backButton = document.rootVisualElement.Q<Button>("BackButton");
+
+        continueButton.clicked += () =>
+        {
+            GameManager.ResetStopwatch();
+            GameManager.StartStopwatch();
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        };
+
+        backButton.clicked += () =>
+        {
+            howToPlayContainer.style.display = DisplayStyle.None;
+            mainMenuContainer.style.display = DisplayStyle.Flex;
+        };
     }
 
     private void SfxChanged(ChangeEvent<float> e)
@@ -43,9 +64,8 @@ public class MainMenuEvents : MonoBehaviour
     
     private void PlayButtonClicked()
     {
-        GameManager.ResetStopwatch();
-        GameManager.StartStopwatch();
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        mainMenuContainer.style.display = DisplayStyle.None;
+        howToPlayContainer.style.display = DisplayStyle.Flex;
     }
     
     private void QuitButtonClicked()
