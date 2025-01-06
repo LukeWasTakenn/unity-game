@@ -3,8 +3,8 @@
     <engine:VisualElement name="Container" style="flex-grow: 1; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; flex-direction: column; flex-wrap: nowrap; justify-content: center; align-items: center; font-size: 24px; border-top-width: 5px; border-right-width: 5px; border-bottom-width: 5px; border-left-width: 5px; border-left-color: rgba(33, 32, 33, 0); border-right-color: rgba(33, 32, 33, 0); border-top-color: rgba(33, 32, 33, 0); border-bottom-color: rgba(33, 32, 33, 0);">
         <engine:VisualElement style="flex-grow: 1; justify-content: center; align-self: center; align-content: center;">
             <engine:Label enabled="true" style="background-image: url(&quot;project://database/Assets/logo2.png?fileID=2800000&amp;guid=926d2bf4bf420064fbf2f489bfa58c77&amp;type=3#logo2&quot;); height: 400px; width: 400px; justify-content: center; align-items: center; align-self: center; align-content: center;" />
-            <engine:Slider label="SFX" value="42" high-value="1" low-value="0.001" name="SfxSlider" class="slider" />
-            <engine:Slider label="MUSIC" value="42" high-value="1" low-value="0.001" name="MusicSlider" class="slider" />
+            <engine:Slider label="SFX" value="42" high-value="1" low-value="0.0001" name="SfxSlider" class="slider" />
+            <engine:Slider label="MUSIC" value="42" high-value="1" low-value="0.0001" name="MusicSlider" class="slider" />
             <engine:Button text="START" name="PlayButton" class="button" style="color: rgb(255, 195, 79);" />
             <engine:Button text="QUIT" name="QuitButton" class="button" />
         </engine:VisualElement>

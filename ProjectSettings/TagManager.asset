@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - PauseMenu
+  - AudioManager
   layers:
   - Default
   - TransparentFX
