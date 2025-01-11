@@ -15,6 +15,8 @@ public class Teleporter : Interactable
     public override void Interact()
     {
         animator.Play("Activate");
+        GameManager.WineCollected += GameManager.WineCollectedThisLife;
+        GameManager.WineCollectedThisLife = 0;
         SoundManager.PlaySound(SoundType.TeleporterActivate, null, 0.4f);
     }
 

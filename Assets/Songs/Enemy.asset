@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   reverbTail: 3.32
   intensityClips:
-  - {fileID: 8300000, guid: 35e5d13ece96aa94c95f539a6570c1f2, type: 3}
   - {fileID: 8300000, guid: d07ae66abdebac7488fb6e5a5a32f08d, type: 3}
   - {fileID: 8300000, guid: 5e7b79e0ba01ca843b306ac0cb095670, type: 3}
+  - {fileID: 8300000, guid: 35e5d13ece96aa94c95f539a6570c1f2, type: 3}

@@ -31,7 +31,7 @@ public class Wine : MonoBehaviour, ICollectible
     public void Collect()
     {
         ScoreManager.Instance.CollectWine();
-        GameManager.WineCollected++;
+        GameManager.WineCollectedThisLife++;
         SoundManager.PlaySound(SoundType.WinePickup);
         Destroy(gameObject);
     }

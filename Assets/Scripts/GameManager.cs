@@ -6,6 +6,7 @@ public class GameManager : MonoBehaviour
 
     public static int LastSceneIndex;
     public static int WineCollected = 0;
+    public static int WineCollectedThisLife = 0;
     public static float CurrentTime = 0f;
 
     private static bool _stopwatchRunning = false;

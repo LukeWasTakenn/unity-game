@@ -215,6 +215,7 @@ public class Player : MonoBehaviour
     
     private void DeathScene()
     {
+        GameManager.WineCollectedThisLife = 0;
         GameManager.LastSceneIndex = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene("Scenes/PlayerDied");
     }
